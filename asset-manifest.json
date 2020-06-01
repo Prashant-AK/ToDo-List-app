@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ToDo-List-app/static/css/main.44546874.chunk.css",
+    "main.js": "/ToDo-List-app/static/js/main.71ac9e8f.chunk.js",
+    "main.js.map": "/ToDo-List-app/static/js/main.71ac9e8f.chunk.js.map",
+    "runtime-main.js": "/ToDo-List-app/static/js/runtime-main.2d6ccfca.js",
+    "runtime-main.js.map": "/ToDo-List-app/static/js/runtime-main.2d6ccfca.js.map",
+    "static/js/2.5a98ad57.chunk.js": "/ToDo-List-app/static/js/2.5a98ad57.chunk.js",
+    "static/js/2.5a98ad57.chunk.js.map": "/ToDo-List-app/static/js/2.5a98ad57.chunk.js.map",
+    "index.html": "/ToDo-List-app/index.html",
+    "precache-manifest.391ce17bd4ea9ac7972e342116cc7676.js": "/ToDo-List-app/precache-manifest.391ce17bd4ea9ac7972e342116cc7676.js",
+    "service-worker.js": "/ToDo-List-app/service-worker.js",
+    "static/css/main.44546874.chunk.css.map": "/ToDo-List-app/static/css/main.44546874.chunk.css.map",
+    "static/js/2.5a98ad57.chunk.js.LICENSE.txt": "/ToDo-List-app/static/js/2.5a98ad57.chunk.js.LICENSE.txt",
+    "static/media/aklogo.jpg": "/ToDo-List-app/static/media/aklogo.c2d7f2c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6ccfca.js",
+    "static/js/2.5a98ad57.chunk.js",
+    "static/css/main.44546874.chunk.css",
+    "static/js/main.71ac9e8f.chunk.js"
+  ]
+}
